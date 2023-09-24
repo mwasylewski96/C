@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+/*int main():
 {
     //printf("  *\n");
     //printf(" ***\n");
@@ -8,3 +8,4 @@ int main()
     printf("  *\n ***\n*****\n");
     return 0;
 }
+*/

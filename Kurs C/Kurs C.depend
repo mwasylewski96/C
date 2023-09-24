@@ -1,7 +1,43 @@
 # depslib dependency file v1.0
-1687694779 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\main.c
+1695572469 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\main.c
 	<stdio.h>
 
-1687694743 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\tree.c
+1695572264 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\tree.c
+	<stdio.h>
+
+1695572832 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\asterisks rectangle.c
+	<stdio.h>
+
+1695575067 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\format_specification.c
+	<stdio.h>
+
+1695575260 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\7_1_format_specification.c
+	<stdio.h>
+
+1695576601 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\mile_stone_1.c
+	<stdio.h>
+
+1695579426 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_1.c
+	<stdio.h>
+
+1695580492 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_2.c
+	<stdio.h>
+
+1695586808 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_3.c
+	<stdio.h>
+
+1695586802 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_4.c
+	<stdio.h>
+
+1695586795 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_5.c
+	<stdio.h>
+
+1695586544 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\mile_stone_2.c
+	<stdio.h>
+
+1695587167 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_6.c
+	<stdio.h>
+
+1695588808 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_7.c
 	<stdio.h>
 
