@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*
 int main()
 {
     // SWAP WITHOUT THIRD VARIABLE
@@ -10,3 +10,4 @@ int main()
     b = b - a;
     printf("After swap: %d, %d\n", a, b);
 }
+*/
