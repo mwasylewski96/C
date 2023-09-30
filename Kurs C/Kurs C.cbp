@@ -58,6 +58,21 @@
 		<Unit filename="Variables_13.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Variables_14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Variables_15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Variables_16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Variables_17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Variables_18.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Variables_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
