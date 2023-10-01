@@ -37,6 +37,21 @@
 		<Unit filename="Asterisks rectangle.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ConditionsControlFlow_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Format_Specification.c">
 			<Option compilerVar="CC" />
 		</Unit>
