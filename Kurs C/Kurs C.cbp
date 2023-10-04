@@ -52,6 +52,12 @@
 		<Unit filename="ConditionsControlFlow_5.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ConditionsControlFlow_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Format_Specification.c">
 			<Option compilerVar="CC" />
 		</Unit>
