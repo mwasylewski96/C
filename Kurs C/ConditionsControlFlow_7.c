@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
 int main()
 {
     float a, b;
@@ -25,3 +25,4 @@ int main()
         break;
     }
 }
+*/

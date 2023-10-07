@@ -40,6 +40,30 @@
 		<Unit filename="ConditionsControlFlow_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ConditionsControlFlow_10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_17.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="ConditionsControlFlow_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -56,6 +80,12 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="ConditionsControlFlow_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConditionsControlFlow_9.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Format_Specification.c">
