@@ -37,6 +37,15 @@
 		<Unit filename="Asterisks rectangle.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Binary, Hex and ASCII.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Binary, Hex and ASCII_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Binary, Hex and ASCII_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="ConditionsControlFlow_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -89,6 +98,15 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Format_Specification.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Loops_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Loops_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Loops_3.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Tree.c">
