@@ -118,6 +118,15 @@
 		<Unit filename="Loops_14.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Loops_15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Loops_16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Loops_17.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Loops_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
