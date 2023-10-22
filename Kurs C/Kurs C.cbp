@@ -100,6 +100,9 @@
 		<Unit filename="Format_Specification.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Functions_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Loops_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -125,6 +128,12 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Loops_17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Loops_18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Loops_19.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Loops_2.c">

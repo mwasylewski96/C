@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*
 int main()
 {
     int number, how_many_numbers;
@@ -26,3 +26,4 @@ int main()
     else
         printf("NOT Very Ascending");
 }
+*/
