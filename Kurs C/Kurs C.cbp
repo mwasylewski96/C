@@ -103,6 +103,15 @@
 		<Unit filename="Functions_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Functions_10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_12.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Functions_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -116,6 +125,15 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Functions_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_9.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Loops_1.c">
