@@ -112,6 +112,21 @@
 		<Unit filename="Functions_12.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Functions_13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Functions_17.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Functions_2.c">
 			<Option compilerVar="CC" />
 		</Unit>

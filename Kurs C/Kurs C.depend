@@ -1,76 +1,76 @@
 # depslib dependency file v1.0
-1695572469 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\main.c
+1695568869 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\main.c
 	<stdio.h>
 
-1695572264 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\tree.c
+1695568664 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\tree.c
 	<stdio.h>
 
-1695572832 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\asterisks rectangle.c
+1695569232 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\asterisks rectangle.c
 	<stdio.h>
 
-1695575067 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\format_specification.c
+1695571467 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\format_specification.c
 	<stdio.h>
 
-1695575260 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\7_1_format_specification.c
+1695571660 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\7_1_format_specification.c
 	<stdio.h>
 
-1695576601 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\mile_stone_1.c
+1695573001 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\mile_stone_1.c
 	<stdio.h>
 
-1695579426 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_1.c
+1695575826 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_1.c
 	<stdio.h>
 
-1695580492 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_2.c
+1695576892 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_2.c
 	<stdio.h>
 
-1695586808 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_3.c
+1695583208 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_3.c
 	<stdio.h>
 
-1695586802 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_4.c
+1695583202 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_4.c
 	<stdio.h>
 
-1695586795 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_5.c
+1695583195 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_5.c
 	<stdio.h>
 
-1695586544 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\mile_stone_2.c
+1695582944 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\mile_stone_2.c
 	<stdio.h>
 
-1695587167 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_6.c
+1695583567 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_6.c
 	<stdio.h>
 
-1695588808 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_7.c
+1695585208 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_7.c
 	<stdio.h>
 
-1695682977 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_8.c
+1695679377 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_8.c
 	<stdio.h>
 
-1695684946 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_10.c
+1695681346 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_10.c
 	<stdio.h>
 
-1695684423 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_9.c
+1695680823 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_9.c
 	<stdio.h>
 
-1695685488 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_11.c
+1695681888 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_11.c
 	<stdio.h>
 
-1695686031 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_12.c
+1695682431 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_12.c
 	<stdio.h>
 
-1695687223 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_13.c
+1695683623 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_13.c
 	<stdio.h>
 
-1695854623 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_14.c
-	<stdio.h>
-	<math.h>
-
-1696092556 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_15.c
+1695851023 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_14.c
 	<stdio.h>
 	<math.h>
 
-1696093060 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_16.c
+1696088956 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_15.c
+	<stdio.h>
+	<math.h>
+
+1696089460 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_16.c
 	<stdio.h>
 
-1696093961 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_17.c
+1696090361 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_17.c
 	<stdio.h>
 	<math.h>
 
@@ -78,200 +78,221 @@
 	<stdio.h>
 	<stdlib.h>
 
-1696095797 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_18.c
+1696092197 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\variables_18.c
 	<stdio.h>
 	<math.h>
 
-1696192582 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_1.c
+1696188982 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_1.c
 	<stdio.h>
 	<stdlib.h>
 
-1696194385 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_2.c
+1696190785 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_2.c
 	<stdio.h>
 	<stdlib.h>
 
-1696194709 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_3.c
+1696191109 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_3.c
 	<stdio.h>
 	<stdlib.h>
 
-1696195082 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_4.c
+1696191482 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_4.c
 	<stdio.h>
 	<stdlib.h>
 
-1696196888 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_5.c
+1696193288 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_5.c
 	<stdio.h>
 	<stdio.h>
 
-1696398616 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_6.c
+1696395016 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_6.c
 	<stdio.h>
 	<stdlib.h>
 
-1696705602 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_7.c
+1696702002 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_7.c
 	<stdio.h>
 	<stdlib.h>
 
-1696707274 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_8.c
+1696703674 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_8.c
 	<stdio.h>
 	<stdlib.h>
 
-1696709123 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_9.c
+1696705523 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_9.c
 	<stdio.h>
 	<stdlib.h>
 
-1696711590 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_10.c
+1696707990 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_10.c
 	<stdio.h>
 	<stdlib.h>
 
-1696712536 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_11.c
+1696708936 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_11.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 
-1696712780 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_12.c
+1696709180 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_12.c
 	<stdio.h>
 	<stdlib.h>
 
-1696713417 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_13.c
+1696709817 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_13.c
 	<stdio.h>
 	<stdlib.h>
 
-1696714890 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_14.c
+1696711290 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_14.c
 	<stdio.h>
 	<stdlib.h>
 
-1696720939 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_15.c
+1696717339 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_15.c
 	<stdio.h>
 	<stdlib.h>
 
-1696720939 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_16.c
+1696717339 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_16.c
 	<stdio.h>
 	<stdlib.h>
 
-1696722026 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_17.c
+1696718426 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\conditionscontrolflow_17.c
 	<stdio.h>
 	<stdlib.h>
 
-1697038603 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\binary, hex and ascii.c
+1697035003 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\binary, hex and ascii.c
 	<stdio.h>
 	<stdlib.h>
 
-1697038910 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\binary, hex and ascii_2.c
+1697035310 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\binary, hex and ascii_2.c
 	<stdio.h>
 	<stdlib.h>
 
-1697041246 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\binary, hex and ascii_3.c
+1697037646 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\binary, hex and ascii_3.c
 	<stdio.h>
 
-1697049318 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_1.c
-	<stdio.h>
-	<stdlib.h>
-
-1697050802 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_2.c
+1697045718 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_1.c
 	<stdio.h>
 	<stdlib.h>
 
-1697052973 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_3.c
+1697047202 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_2.c
 	<stdio.h>
 	<stdlib.h>
 
-1697132620 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_4.c
+1697049373 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_3.c
 	<stdio.h>
 	<stdlib.h>
 
-1697133661 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_5.c
+1697129020 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_4.c
 	<stdio.h>
 	<stdlib.h>
 
-1697134632 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_6.c
-	<stdlib.h>
-	<stdlib.h>
-
-1697135403 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_7.c
+1697130061 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_5.c
 	<stdio.h>
 	<stdlib.h>
 
-1697216473 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_8.c
+1697131032 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_6.c
+	<stdlib.h>
+	<stdlib.h>
+
+1697131803 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_7.c
 	<stdio.h>
 	<stdlib.h>
 
-1697219855 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_9.c
+1697212873 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_8.c
 	<stdio.h>
 	<stdlib.h>
 
-1697220730 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_10.c
+1697216255 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_9.c
 	<stdio.h>
 	<stdlib.h>
 
-1697223281 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_11.c
+1697217130 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_10.c
+	<stdio.h>
+	<stdlib.h>
+
+1697219681 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_11.c
 	<stdio.h>
 
-1697231801 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_12.c
+1697228201 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_12.c
 	<stdio.h>
 
-1697233338 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_13.c
+1697229738 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_13.c
 	<stdio.h>
 
-1697909012 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_14.c
+1697905412 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_14.c
 	<stdio.h>
 
-1697910470 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_15.c
+1697906870 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_15.c
 	<stdio.h>
 
-1697911576 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_16.c
+1697907976 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_16.c
 	<stdio.h>
 
-1698002925 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_17.c
+1697999325 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_17.c
 	<stdio.h>
 
-1698005244 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_18.c
+1698001644 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_18.c
 	<stdio.h>
 	<stdbool.h>
 
-1698005745 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_19.c
+1698002145 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\loops_19.c
 	<stdlib.h>
 
-1698010687 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_1.c
-	<stdlib.h>
-	<stdio.h>
-
-1698277401 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_2.c
-	<stdio.h>
-	<stdlib.h>
-
-1698278025 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_3.c
+1698007087 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_1.c
 	<stdlib.h>
 	<stdio.h>
 
-1698278184 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_4.c
+1698273801 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_2.c
+	<stdio.h>
+	<stdlib.h>
+
+1698274425 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_3.c
 	<stdlib.h>
 	<stdio.h>
 
-1698279301 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_5.c
+1698274584 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_4.c
 	<stdlib.h>
 	<stdio.h>
 
-1698279465 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_6.c
+1698275701 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_5.c
 	<stdlib.h>
 	<stdio.h>
 
-1698518228 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_7.c
+1698275865 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_6.c
 	<stdlib.h>
 	<stdio.h>
 
-1698520365 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_8.c
+1698514628 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_7.c
+	<stdlib.h>
+	<stdio.h>
+
+1698516765 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_8.c
 	<stdlib.h>
 	<stdio.h>
 	<stdbool.h>
 
-1698522208 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_9.c
+1698518608 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_9.c
 	<stdlib.h>
 	<stdio.h>
 
-1698524166 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_10.c
+1698520566 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_10.c
 	<stdlib.h>
 	<stdio.h>
 
-1698526987 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_11.c
+1698523387 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_11.c
+	<stdlib.h>
+	<stdio.h>
+
+1698524732 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_12.c
+	<stdlib.h>
+	<stdio.h>
+
+1698598259 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_13.c
+	<stdlib.h>
+	<stdio.h>
+
+1698602664 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_14.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1698603256 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_15.c
+	<stdlib.h>
+	<stdio.h>
+
+1698605236 source:c:\users\mwasy\onedrive\pulpit\marcin\programista\c\c\kurs c\functions_16.c
 	<stdlib.h>
 	<stdio.h>
 
