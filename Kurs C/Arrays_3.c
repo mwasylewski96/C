@@ -1,15 +1,14 @@
 #include <stdlib.h>
 #include <stdio.h>
 #define NUMBER_OF_DAYS 7
-
+/*
 void collect_temperatures(float tab[])
 {
     for (int i=0; i<NUMBER_OF_DAYS; i++)
     {
-        scanf("%d", &tab[i]);
+        scanf("%f", &tab[i]);
     }
 }
-
 float average_temperature(float tab[])
 {
     float sum_of_all_temp = 0;
@@ -25,25 +24,25 @@ float average_temperature(float tab[])
 int find_hottest_day(float tab[])
 {
     int hottest_day = 0;
-    float max_value = 0;
+    float max_value = tab[0];
     for (int i=0; i<NUMBER_OF_DAYS; i++)
     {
-        if (max_value>=tab[i])
+        if (tab[i]>=max_value)
         {
             max_value = tab[i];
             hottest_day = i;
         }
     }
     return hottest_day;
-
+}
 
 int find_coldest_day(float tab[])
 {
     int coldest_day = 0;
-    float max_value = 0;
+    float max_value = tab[0];
     for (int i=0; i<NUMBER_OF_DAYS; i++)
     {
-        if (max_value<=tab[i])
+        if (tab[i]<=max_value)
         {
             max_value = tab[i];
             coldest_day = i;
@@ -104,11 +103,10 @@ switch (cold)
         break;
     }
 }
-
-int main()
+void main()
 {
     float tab[NUMBER_OF_DAYS];
     collect_temperatures(tab);
     print_results(average_temperature(tab), find_hottest_day(tab), find_coldest_day(tab));
-    return 0;
 }
+*/
