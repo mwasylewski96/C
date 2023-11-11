@@ -46,6 +46,18 @@
 		<Unit filename="Arrays_4.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Arrays_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Arrays_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Arrays_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Arrays_8.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Asterisks rectangle.c">
 			<Option compilerVar="CC" />
 		</Unit>
