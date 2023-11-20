@@ -34,6 +34,12 @@
 		<Unit filename="7_1_Format_Specification.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ArraysTask_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Arrays_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -230,6 +236,15 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Loops_9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pointers_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pointers_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pointers_3.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Tree.c">
