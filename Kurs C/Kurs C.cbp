@@ -40,6 +40,15 @@
 		<Unit filename="ArraysTask_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ArraysTask_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Arrays_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
