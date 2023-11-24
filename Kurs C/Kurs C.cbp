@@ -37,6 +37,15 @@
 		<Unit filename="ArraysTask_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ArraysTask_10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_12.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="ArraysTask_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -47,6 +56,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="ArraysTask_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArraysTask_9.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Arrays_1.c">
