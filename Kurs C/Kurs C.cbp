@@ -277,6 +277,24 @@
 		<Unit filename="Pointers_3.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Recursions_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Strings_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
