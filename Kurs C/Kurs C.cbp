@@ -280,6 +280,27 @@
 		<Unit filename="Recursions_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Recursions_10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_16.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Recursions_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -293,6 +314,15 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Recursions_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_9.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Strings_1.c">
