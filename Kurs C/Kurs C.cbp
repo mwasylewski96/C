@@ -301,7 +301,28 @@
 		<Unit filename="Recursions_16.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Recursions_17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_19.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Recursions_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursions_23.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Recursions_3.c">
