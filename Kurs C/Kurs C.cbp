@@ -358,6 +358,15 @@
 		<Unit filename="Strings_4.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Structs_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Structs_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Structs_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Tree.c">
 			<Option compilerVar="CC" />
 		</Unit>
