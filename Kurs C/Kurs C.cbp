@@ -157,6 +157,12 @@
 		<Unit filename="ConditionsControlFlow_9.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Constants_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingArays_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Format_Specification.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -373,7 +379,19 @@
 		<Unit filename="Structs_5.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Structs_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Structs_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Tree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Unions_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Unions_2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Variables_1.c">
