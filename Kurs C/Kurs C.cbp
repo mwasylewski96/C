@@ -163,6 +163,39 @@
 		<Unit filename="CountingArays_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="CountingArays_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingArays_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingArays_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingArays_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingArays_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingArays_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingArays_8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Files_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Files_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Files_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Files_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Format_Specification.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -446,6 +479,15 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Variables_9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="WorkingWithFiles_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="WorkingWithFiles_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="WorkingWithFiles_3.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
