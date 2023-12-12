@@ -196,6 +196,15 @@
 		<Unit filename="Files_4.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Files_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Files_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Files_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Format_Specification.c">
 			<Option compilerVar="CC" />
 		</Unit>
